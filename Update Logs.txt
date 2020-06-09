@@ -1,2 +1,5 @@
 Update 1.0.0
 It's here!
+
+Update 1.0.1
+ReferenceError: string is not defined Fixed!
