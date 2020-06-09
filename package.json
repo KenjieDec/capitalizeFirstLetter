@@ -1,6 +1,6 @@
 {
   "name": "cfl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Capitalize or Uncapilatize First Letter",
   "main": "index.js",
   "scripts": {

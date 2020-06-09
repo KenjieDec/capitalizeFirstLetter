@@ -3,3 +3,6 @@ It's here!
 
 Update 1.0.1
 ReferenceError: string is not defined Fixed!
+
+Update 1.0.2
+README.md Fixed
