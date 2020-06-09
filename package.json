@@ -1,0 +1,25 @@
+{
+  "name": "cfl",
+  "version": "1.0.0",
+  "description": "Capitalize or Uncapilatize First Letter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenjieDec/capitalizeFirstLetter.git"
+  },
+  "keywords": [
+    "capitalizeFirstLetter",
+    "capital",
+    "upperCaseFirst",
+    "capitalFirst"
+  ],
+  "author": "Poor_RBs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenjieDec/capitalizeFirstLetter/issues"
+  },
+  "homepage": "https://github.com/KenjieDec/capitalizeFirstLetter#readme"
+}
