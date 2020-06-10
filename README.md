@@ -7,7 +7,7 @@ Capitalize or Uncapilatize First Letter
 
 ## Example:
 ```js
-const {capitalizeFirstLetter, unCapitalizeFirstLetter, cfl, ucfl} = require("re-times");
+const {capitalizeFirstLetter, unCapitalizeFirstLetter, cfl, ucfl} = require("cfl");
 ///Capitalize First Letter
 capitalizeFirstLetter('anata wa') // Anata wa
 capitalizeFirstLetter('im a big boi') // Im a big boi
